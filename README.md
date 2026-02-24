@@ -14,8 +14,8 @@ console.
 
 # Files (examples)
 
--   `pymol_ts_helper.py` — plugin script (run in PyMOL).\
--   `H0232_TS.txt` — example CASP TS file.\
+-   `pymol_ts_helper.py` — plugin script (run in PyMOL).
+-   `H0232_TS.txt` — example CASP TS file.
 -   `Model_H0232.pdb` — example PDB model.
 
 ------------------------------------------------------------------------
