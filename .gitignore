@@ -1,36 +1,33 @@
-# OS files
+# OS
 .DS_Store
 Thumbs.db
+._*
 
-# Python
+# Python caches / bytecode
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
 
-# Editor/IDE
+# Virtualenvs / env files
+.env
+.venv
+env/
+venv/
+
+# Editor / IDE
 .vscode/
 .idea/
 *.swp
-*~ 
+*~
 
-# Virtualenv / env folders
-env/
-venv/
-.env
-.venv/
+# Jupyter
+.ipynb_checkpoints
 
-# PyMOL or data artifacts you don't want in the repo
+# Data / artifacts
 *.pdb.gz
 *.log
 *.bak
 
-# macOS resource forks
-._*
+# Example PDBs, 
+# examples/*.pdb
 
-# zip/tar builds
-*.zip
-*.tar.gz
 
-# keep examples but ignore any generated or large binaries
-examples/*.pdb.gz
