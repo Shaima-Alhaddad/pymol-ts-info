@@ -12,11 +12,19 @@ console.
 
 ------------------------------------------------------------------------
 
-# Files (examples)
+# Files
 
--   `pymol_ts_helper.py` — plugin script (run in PyMOL).
--   `H0232_TS.txt` — example CASP TS file.
--   `Model_H0232.pdb` — example PDB model.
+- [![Download pymol_ts_helper](https://img.shields.io/badge/Download-pymol_ts_helper.py-blue?style=for-the-badge&logo=python)](https://raw.githubusercontent.com/Shaima-Alhaddad/pymol-ts-info/main/pymol_ts_helper.py) Plugin script (run in PyMOL)
+
+- [![Download TXT](https://img.shields.io/badge/Download-TXT-2b6cb0?style=for-the-badge&logo=)](https://raw.githubusercontent.com/Shaima-Alhaddad/pymol-ts-info/main/examples/H0232_TS.txt) Example CASP TS file.
+
+- [![Download PDB](https://img.shields.io/badge/Download-PDB-2b6cb0?style=for-the-badge&logo=)](https://raw.githubusercontent.com/Shaima-Alhaddad/pymol-ts-info/main/examples/Model_H0232.pdb)  Example PDB model.
+
+
+
+
+
+
 
 ------------------------------------------------------------------------
 
