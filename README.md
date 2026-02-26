@@ -14,7 +14,7 @@ console.
 
 # Files
 
-- [![Download pymol_ts_helper](https://img.shields.io/badge/Download-pymol_ts_helper.py-blue?style=for-the-badge&logo=python)](https://raw.githubusercontent.com/Shaima-Alhaddad/pymol-ts-info/main/pymol_ts_helper.py) Plugin script (run in PyMOL)
+- [![Download pymol_ts_helper](https://img.shields.io/badge/Download-pymol_ts_helper.py-blue?style=for-the-badge&logo=python)](https://github.com/Shaima-Alhaddad/pymol-ts-info/blob/main/pymol_ts_helper.py) Plugin script (run in PyMOL)
 
 - [![Download TXT](https://img.shields.io/badge/Download-TXT-2b6cb0?style=for-the-badge&logo=)](https://github.com/Shaima-Alhaddad/pymol-ts-info/blob/main/H0232_TS.txt) Example CASP TS file.
 
